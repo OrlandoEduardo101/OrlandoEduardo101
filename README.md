@@ -1,8 +1,9 @@
 ### Hi,I'm Orlando Eduardo 👋
 
+
 - 💻 I'm a mobile developer
-- 🔭 I’m currently working on Flutter/Dart
-- 🌱 I’m currently learning Swift
+- 💻 I'm a Project Manager at FTeam
+- 🔭 I’m currently working on Flutter/Dart 
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=OrlandoEduardo101&show_icons=true&hide_border=false&line_height=20&title_color=#B22222icon_color=#B22222&show_owner=true"/>
